@@ -1,0 +1,17 @@
+body{
+    min-height: 100vh;
+}
+
+main, aside {
+    min-height: 100vh;
+}
+
+aside{
+    background-color: orange;
+    width: 300px;
+    height: 100%;
+}
+
+.bg-primary {
+    background-color: rgb(84, 182, 137) !important;
+}
