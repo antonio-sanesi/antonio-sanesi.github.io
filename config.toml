@@ -1,0 +1,29 @@
+languageCode = "it-it"
+defaultContentLanguage = "it"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://example.com/"
+title = "Antonio Sanesi"
+googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#ddd"
+colorPrimary = "#54B689"
+colorSecondary = "#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "#54B689"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#54B689"
+pages = 1
+# Set this param to 'true' to swap the bar positions
+swapColumns = false
