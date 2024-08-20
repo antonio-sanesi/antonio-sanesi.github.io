@@ -8,9 +8,9 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: <a class="contact__link" href="mailto:anto.sane93@gmail.com">anto.sane93@gmail.com</a>
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://asanesi.it" target="_blank">asanesi.it</a>
+      Info: <a class="contact__link" href="https://asanesi.it">asanesi.it</a>
     - Icon: fas fa-map-marker-alt
-      Info: <a class="contact__link" href="https://www.google.com/maps/place/00065+Fiano+Romano+RM/@42.1566805,12.5956611,14z">Fiano Romano (RM)</a>
+      Info: <a class="contact__link" target="_blank" href="https://www.google.com/maps/place/00065+Fiano+Romano+RM/@42.1566805,12.5956611,14z">Fiano Romano (RM)</a>
 
 Profile: |
   Sono un giovane professionista con una formazione da perito elettronico e un percorso lavorativo variegato in diversi campi.
