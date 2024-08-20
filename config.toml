@@ -27,3 +27,5 @@ colorRightColumnIconBackground = "#54B689"
 pages = 1
 # Set this param to 'true' to swap the bar positions
 swapColumns = false
+# Set this to true to put education before experience
+swapExperienceEducation = true
