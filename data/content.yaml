@@ -9,6 +9,8 @@ BasicInfo:
       Info: <a class="contact__link" href="mailto:anto.sane93@gmail.com">anto.sane93@gmail.com</a>
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://asanesi.it">asanesi.it</a>
+    - Icon: fa-brands fa-github
+      Info: <a class="contact__link" target="_blank" href="https://github.com/antonio-sanesi">Github</a>
     - Icon: fas fa-map-marker-alt
       Info: <a class="contact__link" target="_blank" href="https://www.google.com/maps/place/00065+Fiano+Romano+RM/@42.1566805,12.5956611,14z">Fiano Romano (RM)</a>
 
