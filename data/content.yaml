@@ -4,13 +4,13 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +39 389 047 8653
+      Info: <a class="contact__link" href="tel:+393890478653">+39 389 047 8653</a>
     - Icon: fas fa-envelope
-      Info: anto.sane93@gmail.com
+      Info: <a class="contact__link" href="mailto:anto.sane93@gmail.com">anto.sane93@gmail.com</a>
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://asanesi.it" target="_blank">asanesi.it</a>
     - Icon: fas fa-map-marker-alt
-      Info: Fiano Romano (RM)
+      Info: <a class="contact__link" href="https://www.google.com/maps/place/00065+Fiano+Romano+RM/@42.1566805,12.5956611,14z">Fiano Romano (RM)</a>
 
 Profile: |
   Sono un giovane professionista con una formazione da perito elettronico e un percorso lavorativo variegato in diversi campi.
