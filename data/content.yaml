@@ -20,6 +20,21 @@ Profile: |
   <br/>Ora, desidero mettere a frutto queste competenze per costruire una carriera come programmatore backend.
 
 
+Education:
+  - Course: Perito Elettronico (Indirizzo "Elettronica e Telecomunicazioni")
+    Place: ITIS B. Pascal - Roma
+    Date: 2007-2012
+  - Course: Java 17 Masterclass
+    Place: Udemy - Tim Buchalka
+    Date: Marzo 2024
+    Details: "ID Credenziale: UC-dc045cd1-ea9f-43a9-ac7c-114cd071a4bd"
+    Badges: ["Java","OOP"]
+  - Course: Spring Boot 3, Spring 6 & Hibernate for Beginners
+    Place: Udemy - Chad Darby
+    Date: Agosto 2024
+    Details: "ID Credenziale: UC-60d5fc4c-f14c-48c5-b449-b8011947fb28"
+    Badges: ["Spring","Spring Boot","Hibernate","JPA"]
+
 Experience:
   - Employer: Distretti Ecologici S.p.A
     Place: Roma (RM)
@@ -50,20 +65,6 @@ Experience:
         - Vendita e consulenza su prodotti di telefonia
         - Promozione di nuovi prodotti e offerte
 
-  
-
-Education:
-  - Course: Perito Elettronico (Indirizzo "Elettronica e Telecomunicazioni")
-    Place: ITIS B. Pascal - Roma
-    Date: 2007-2012
-  - Course: Java 17 Masterclass
-    Place: Udemy - Tim Buchalka
-    Date: Marzo 2024
-    Details: "ID Credenziale: UC-dc045cd1-ea9f-43a9-ac7c-114cd071a4bd"
-  - Course: Spring Boot 3, Spring 6 & Hibernate for Beginners
-    Place: Udemy - Chad Darby
-    Date: Agosto 2024
-    Details: "ID Credenziale: UC-60d5fc4c-f14c-48c5-b449-b8011947fb28"
 
 #References:
 #  - Name: P
