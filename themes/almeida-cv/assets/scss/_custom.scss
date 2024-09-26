@@ -1,0 +1,41 @@
+// override me
+.education__item, .experience__item{
+    padding: .5rem 0 !important;
+    margin: 0 !important;
+}
+
+.experience__job{
+    margin: 0 !important;
+}
+
+.experience__header{
+    display: flex;
+    justify-content: space-between;
+
+    height: initial !important;
+    h3{
+        width: initial !important;
+    }
+}
+
+.section{
+    margin-bottom: 1rem;
+}
+
+.section:last-child{
+    margin-bottom: 0;
+}
+
+.footer{
+    height: 4rem;
+    width: 100%;
+    clear: both;
+    z-index: 999;
+    color: darken($color-light, 25%);
+    position: absolute;
+    bottom: .5rem;
+    right: 0;
+    left: 0;
+    padding-right: 26rem;
+    padding-left: 2rem;
+}
